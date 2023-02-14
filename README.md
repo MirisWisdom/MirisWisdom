@@ -5,7 +5,7 @@
 Eventually it will have something pretty and informative, but until then:
 
 - 🔭 I’m currently working on this readme, enterprise software and some nifty projects.
-- 🌱 I’m currently learning on how to read a delicious readme.
+- 🌱 I’m currently learning on how to write a delicious readme.
 - 👯 I’m looking to collaborate on almost anything, especially if written in C#
 - 🤔 I’m looking for help with making a more exciting readme.
 - 💬 Ask me about anything regarding server and data administration.
