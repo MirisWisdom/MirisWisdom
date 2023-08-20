@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emilian Roman / Miris Wisdom</h1>
-<h3 align="center">A Software Engineer & Architect and System/Infrastructure Operator</h3>
+<h1 align="center">Howdy, I'm Emilian Roman / Miris Wisdom</h1>
+<h3 align="center">Software Engineer & Architect and System/Infrastructure Operator</h3>
 <h3 align="center">... with a generalist, holistic and pragmatic approach to everything!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miriswisdom&label=Profile%20views&color=0e75b6&style=flat" alt="miriswisdom" /> </p>
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/miriswisdom](github.com/miriswisdom)
 
-- 📝 I regularly write articles on [blog.miris.design](blog.miris.design)
+- 📝 I once in a blue moon write articles on [blog.miris.design](blog.miris.design)
 
 - 💬 Ask me about **I'm a jack of all trades, so and everything!**
 
