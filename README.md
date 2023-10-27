@@ -20,7 +20,7 @@
 
 - 📝 I once in a blue moon write articles on [blog.miris.design](blog.miris.design)
 
-- 💬 Ask me about **I'm a jack of all trades, so and everything!**
+- 💬 Ask me about **I'm a jack of all trades, so anything and everything!**
 
 - 📫 How to reach me **me@miris.design**
 
